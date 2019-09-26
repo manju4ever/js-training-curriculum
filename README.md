@@ -52,12 +52,18 @@
     - importing using the _require_ keyword. 
 
   * Files
+     - Importing the built-in ```fs``` module
      - reading file with the _readFileSync()_ method.
-     - Parsing the text and performing various operations like 
-        - word count
-        - sentence count
-        - word frequency
+     - Reading the text from a file and performing various operations on it
+         - word count, sentence count.
    * Functions - Intermediate
         - Asynchronous functions
+        - Why should we functions be async ?
+
+### Week 4 - Node.js Basics
+  * Functions - Intermediate
+      - calling single ```callback``` 
+      - calling multiple functions using ```callbackArr```
+
 
 
