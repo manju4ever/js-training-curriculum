@@ -3,16 +3,16 @@
 ### Week 1 - JS Fundamentals
 *  JS Data Types 
     * Primitives - string, boolean, number, undefined
-    * Non-Primitive - Objects, Array, String
+    * Non-Primitives - Objects, null
 * Variable Declaration
-    * let - Mutable
-    * const - Constants
+    * ```let``` - Mutable
+    * ```const``` - Non Mutable
 * Conditional Statements
-    * if, while, do..while
-    * switch (TBD)
-    * Ternary Expression (TBD)
+    * ```if, while, do..while```
+    * ```switch``` (TBD)
+    * ```Ternary Expression``` (TBD)
 * Looping
-    * for loop
+    * ```for``` loop
 
 ### Week 2  - JS Fundamentals
 * Array Basics
@@ -37,13 +37,13 @@
         - using the _=>_ notation to declare functions
     * Reading function arguments
     * Passing function parameters
-    * Shortening functions using _=>_.
+    * Shortening functions using ```=>```.
 
 ### Week 3 - Node.js Basics
  * Class - All about creating custom data types
-    - _class_ keyword
+    - ```class``` keyword
     - constructors in classes
-    - creating instance(s) with the _new_ keyword.
+    - creating instance(s) with the ```new``` keyword.
     - understanding _this_ keyword
     - Accessing properties and calling methods from within the class instance(s).
 
@@ -53,7 +53,7 @@
 
   * Files
      - Importing the built-in ```fs``` module
-     - reading file with the _readFileSync()_ method.
+     - reading file with the ```readFileSync()``` method.
      - Reading the text from a file and performing various operations on it
          - word count, sentence count.
    * Functions - Intermediate
@@ -63,7 +63,7 @@
 ### Week 4 - Node.js Basics
   * Functions - Intermediate
       - calling single ```callback``` 
-      - calling multiple functions using ```callbackArr```
+      - calling multiple functions using ```callbackArr``` array.
 
 
 
