@@ -30,7 +30,7 @@
     * ```toLowerCase()```
 * Functions
     * function declaration
-        - using function keyword
+        - using ```function``` keyword
     * function expression
         - assigning a function to a variable
     * Arrow Functions
