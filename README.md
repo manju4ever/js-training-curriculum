@@ -62,8 +62,9 @@
 
 ### Week 4 - Node.js Basics
   * Functions - Intermediate
-      - calling single ```callback``` 
-      - calling multiple functions using ```callbackArr``` array.
+      - Asynchronous function (contd...)
+         - calling single ```callback``` 
+         - calling multiple functions using ```callbackArr``` array.
 
 
 
