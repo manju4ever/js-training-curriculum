@@ -61,7 +61,7 @@
         - Why do need to have _asynchronous functions_ ?
 ### Week 4 - Node.js Basics
   * Functions - Intermediate
-      - Asynchronous function (contd...)
+      - Asynchronous functions (contd...)
          - calling single ```callback``` 
          - calling multiple functions using ```callbackArr``` array.
 
