@@ -34,7 +34,7 @@
     * function expression
         - assigning a function to a variable
     * Arrow Functions
-        - using the _=>_ notation to declare functions
+        - using the ```=>``` notation to declare functions
     * Reading function arguments
     * Passing function parameters
     * Shortening functions using ```=>```.
