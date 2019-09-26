@@ -25,7 +25,7 @@
     * join() method
 * String Methods
     * ```split()``` - Split a string and get an array back
-    * substr() - Partially get a string back
+    * ```substr()``` - Partially get a string back
     * ```toUpperCase()```
     * ```toLowerCase()```
 * Functions
@@ -48,8 +48,8 @@
     - Accessing properties and calling methods from within the class instance(s).
 
   * Importing / Exporting Files
-    - exporting using the _module.exports_ keyword.
-    - importing using the _require_ keyword. 
+    - exporting using the ```_module.exports_``` keyword.
+    - importing using the ```_require_``` keyword. 
 
   * Files
      - Importing the built-in ```fs``` module
