@@ -48,8 +48,8 @@
     - Accessing properties and calling methods from within the class instance(s).
 
   * Importing / Exporting Files
-    - exporting using the ```_module.exports_``` keyword.
-    - importing using the ```_require_``` keyword. 
+    - exporting modules using the ```module.exports``` keyword.
+    - importing modules using the ```require()``` method. 
 
   * Files
      - Importing the built-in ```fs``` module
