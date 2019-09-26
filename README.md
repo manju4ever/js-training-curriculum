@@ -58,7 +58,7 @@
          - word count, sentence count.
    * Functions - Intermediate
         - Asynchronous functions
-        - Why functions be asynchronous ?
+        - Why do need to have _asynchronous functions_ ?
 ### Week 4 - Node.js Basics
   * Functions - Intermediate
       - Asynchronous function (contd...)
