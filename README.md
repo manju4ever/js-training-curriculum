@@ -64,6 +64,12 @@
       - Asynchronous functions (contd...)
          - calling single ```callback``` 
          - calling multiple functions using ```callbackArr``` array.
-
+  * fs - module
+      - ```fs.writeFileSync()``` method - Used to write some contents to a file
+      -   import data from external file - use it - and perform write operations to a file
+  * npm 
+      - ``` npm init -y ```
+      - ``` npm install [some-package-name]```
+   
 
 
