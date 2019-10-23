@@ -75,7 +75,7 @@
   * HTTP Introduction
       - History of WWW and HTTP
       - Why HTTP is used across the web ?
-      - Coomon methods of interaction - ``` GET, POST, PUT and DELETE ```
+      - Common methods of interaction - ``` GET, POST, PUT and DELETE ```
   * OSI Model Introduction
      - 7 Layers of data interaction
   * Creating a Sample Express JS Application
