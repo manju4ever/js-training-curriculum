@@ -70,6 +70,18 @@
   * npm 
       - ``` npm init -y ```
       - ``` npm install [some-package-name]```
+      - ```Refer to package.json for project dependencies```
+ ### Week 5 - Node.js 
+  * HTTP Introduction
+      - History of WWW and HTTP
+      - Why HTTP is used across the web ?
+      - Coomon methods of interaction - GET, POST, PUT and DELETE
+  * OSI Model Introduction
+     - 7 Layers of data interaction
+  * Creating a Sample Express JS Application
+     - Create a simple route for listing city names.
+     - Create a simpe HTML markup and render it as a response.
+     
    
 
 
