@@ -79,7 +79,7 @@
   * OSI Model Introduction
      - 7 Layers of data interaction
   * Creating a Sample Express JS Application
-     - Create a simple route for listing city names.
+     - Create a simple route for listing data (arrays, string, date, ...)
      - Create a simpe HTML markup and render it as a response.
  
  ## Capstone Project
