@@ -83,7 +83,7 @@
      - Create a simpe HTML markup and render it as a response.
  
  ## Capstone Project
-  1) #### Create a EMI Calculator app  - which provides monthly payment schedule.
+  1) #### Create a EMI Calculator app  - which provides amortization schedule (monthly payments).
    
 
 
