@@ -28,6 +28,7 @@
     * ```substr()``` - Partially get a string back
     * ```toUpperCase()```
     * ```toLowerCase()```
+    * String Interpolation
 * Functions
     * function declaration
         - using ```function``` keyword
@@ -37,6 +38,7 @@
         - using the ```=>``` notation to declare functions
     * Reading function arguments
     * Passing function parameters
+    * Setting default paramater value
     * Shortening functions using ```=>```.
 
 ### Week 3 - Node.js Basics
@@ -59,6 +61,7 @@
    * Functions - Intermediate
         - Asynchronous functions
         - Why do need to have _asynchronous functions_ ?
+   * ES6 Object and Array destruction
 ### Week 4 - Node.js Basics
   * Functions - Intermediate
       - Asynchronous functions (contd...)
